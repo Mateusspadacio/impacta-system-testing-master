@@ -58,7 +58,7 @@
       Quando o usuário clicar no botão Salvar
       Então o usuário devera ver a mensagem "Processo atualizado com sucesso."
 
-    Cenário: usuário gostaria de editar um processo
+    Cenário: usuário gostaria de apagar um processo
       Dado que o usuário esta na página de detalhes do processo
       E o usuário clica no botão voltar
       Quando o usuário clicar no botão apagar
